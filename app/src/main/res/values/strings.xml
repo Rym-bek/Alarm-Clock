@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Часы</string>
+    <string name="title_alarm">Будильник</string>
+    <string name="title_stopwatch">Секундомер</string>
+    <string name="title_timer">Таймер</string>
+    <string name="alert_time">Все будильники\nотключены</string>
+    <string name="cancel">Отмена</string>
+    <string name="Ok">Готово</string>
+    <string name="selected_melody">Выбранная мелодия</string>
+    <string name="sound_of_alert">Звук будильника</string>
+    <string name="vibration_of_alert">Вибрация</string>
+    <string name="select_music">Выбор музыки</string>
+    <string name="search">Поиск</string>
+    <string name="preview_play">Проверить мелодию</string>
+    <string name="check_sound_volume">Проверить громкость</string>
+    <string name="songs_count">Композиций:</string>
+    <string name="vibration">Проверить вибрацию</string>
+    <string name="on">Включено</string>
+    <string name="off">Выключено</string>
+</resources>

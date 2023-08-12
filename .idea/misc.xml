@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_alert.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_back.xml" value="0.1535" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_cancel.xml" value="0.1325" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_cancel_alert.xml" value="0.1325" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_cancel_calendar_dialog.xml" value="0.103" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_cancel_lock_screen.xml" value="0.198" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_ready_calendar_dialog.xml" value="0.141" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_ready_page_set_music_all.xml" value="0.141" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_button_save.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_calendar.xml" value="0.2005" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_calendar_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_crossincircularbutton_80232.xml" value="0.198" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_dot.xml" value="0.174" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_icon_alarm_dialog.xml" value="0.2005" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_line_between_buttons.xml" value="0.1475" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_plus.xml" value="0.174" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_stopwatch.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_three_dots.xml" value="0.174" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_three_dots_vertical.xml" value="0.174" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ic_timer.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/layout_style.xml" value="0.114" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/main_icon_background.xml" value="0.2005" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/main_icon_jojo_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/ripple.xml" value="0.2215" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/drawable/shapes.xml" value="0.2215" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/font/.xml" value="0.211306765523633" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/activity_test.xml" value="0.16092475067996373" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/alarm_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/corners_radius.xml" value="0.13553943789664552" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/dialog_calendar.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/fragment_alert.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/fragment_dashboard.xml" value="0.144" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/fragment_notifications.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/item_alarm.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/lock_screen.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/page_set_alert.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/page_set_music_all.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/page_setalert.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/page_vibrate.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/set_alarm_music.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/shapes.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/layout/test_layout.xml" value="0.264" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/mipmap-anydpi-v26/main_icon.xml" value="0.2005" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/mipmap-anydpi-v26/main_icon_jojo.xml" value="0.2005" />
+        <entry key="..\:/Users/User/Desktop/alarm_clock_java/app/src/main/res/mipmap-anydpi-v26/main_icon_jojo_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

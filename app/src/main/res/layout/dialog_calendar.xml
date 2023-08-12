@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:theme="@style/style_calendar"
+    android:id="@+id/constraint_layout_calendar_dialog"
+    >
+
+    <CalendarView
+        android:id="@+id/CalendarView_dialog"
+        android:layout_width="354dp"
+        android:layout_height="wrap_content"
+        android:theme="@style/style_calendar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+         />
+
+    <ImageButton
+        android:id="@+id/button_cancel_calendar_dialog"
+        android:layout_width="136dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/ripple"
+        android:onClick="cancel_calendar_dialog"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/CalendarView_dialog"
+        app:srcCompat="@drawable/ic_button_cancel_calendar_dialog" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:rotation="90"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CalendarView_dialog"
+        app:srcCompat="@drawable/ic_line_between_buttons" />
+
+    <ImageButton
+        android:id="@+id/button_ready_calendar_dialog"
+        android:layout_width="136dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/ripple"
+        android:onClick="apply_calendar_dialog"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/CalendarView_dialog"
+        app:srcCompat="@drawable/ic_button_ready_calendar_dialog" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
